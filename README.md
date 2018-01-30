@@ -1,7 +1,6 @@
-# README #
+# Rationale #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
+This file describes the workflow of migration between some various exogenous databases that belongs to IMHICIHU. Full details will be online ASAP.
 ### What is this repository for? ###
 
 * Quick summary
@@ -18,9 +17,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* To do
+
 
 ### Who do I talk to? ###
 
