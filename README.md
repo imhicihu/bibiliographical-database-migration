@@ -16,6 +16,7 @@ This file describes the workflow of migration between some various exogenous dat
 	 - [Docker](https://www.docker.com/): deploy apps inside virtual environments. A time-saver in the process of cut and paste in-from a myriad of applications between different operating systems.
 * Configuration
 * Dependencies
+     - In terms of workflow, there is a previous repository: [Terrae database](https://bitbucket.org/imhicihu/terrae-database).
 * Database configuration
 * How to run tests
 * Deployment instructions
