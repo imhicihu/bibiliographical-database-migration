@@ -5,8 +5,8 @@
 
 To fix                        | Fixed
 ------------------- | -------------
-              Â´                 |             '
-              Â´Â´               |             "
+              ´                 |             '
+              ´´               |             "
 vol.XXX                    | vol. XXX
 (space) **:** (space)     | (space)**:** (space)  
 (space) **.** (space)     | (space)**.** (space)
@@ -50,3 +50,4 @@ vol.XXX                    | vol. XXX
 (space) **Coord.** (space)     | (space)** ** (space)
 (space) **agrim.** (space)     | (space)** ** (space)
 (space) **Agrim.** (space)     | (space)** ** (space)
+(space) **Respons. secund.** (space)     | (space)** ** (space)
