@@ -29,4 +29,6 @@ This file describes the workflow of migration between some various exogenous dat
 ### Who do I talk to? ###
 
 * Repo owner or admin
+	- Contact at `imhicihu` at `gmail` dot `com`
 * Other community or team contact
+	- Contact is enable on the [board](https://bitbucket.org/imhicihu/bibliographical-database-migration/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
