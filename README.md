@@ -26,10 +26,6 @@
      - In terms of workflow, there is a previous repository: [Terrae database](https://bitbucket.org/imhicihu/terrae-database)
 * Deployment instructions
 	- _In process_
-	
-### Contribution guidelines ###
-
-* _In process_
 
 ### Who do I talk to? ###
 
