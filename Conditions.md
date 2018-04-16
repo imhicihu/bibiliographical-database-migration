@@ -150,4 +150,4 @@ vol.XXX                    | vol. XXX
 (space) **direccion** (space)     | (space)**Dirección** (space)
 (space) **Semana de lGeografía. ** (space)     | (space)**Semana de Geografía ** (space)
 (space) **any word in CAPITALS** (space)     | (space)**must be lowercase** (space)
-space) **-^p.** (space)     | (space)**-(any character)^p.** (space) `^p` paragraph mark
+(space) **-^p.** (space)     | (space)**-(any character)^p.** (space) `^p` paragraph mark
