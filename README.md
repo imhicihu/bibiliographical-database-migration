@@ -1,8 +1,9 @@
 # Rationale #
 
 * This file describes the workflow of migration between some various exogenous databases that belongs to IMHICIHU. 
-* Full details will be online ASAP.
 * There are some work-around, collateral facts: some software are deprecated, so, there is no help or support to them
+![microisis.png](https://bitbucket.org/repo/AjyxMg/images/665384274-microisis.png)
+![microisis_welcome_page.png](https://bitbucket.org/repo/AjyxMg/images/1915817601-microisis_welcome_page.png)
 
 ### What is this repository for? ###
 
