@@ -8,6 +8,7 @@
 
 * Quick summary
 	- Migration between various databases and the fixes applied to minimize incompatibilities between parties
+	![dropbox.png](https://bitbucket.org/repo/AjyxMg/images/3520191444-dropbox.png)
 	![rescate_biblioteca.png](https://bitbucket.org/repo/5XLMqG/images/800787997-rescate_biblioteca.png)
 * Version
 	- 1.1
