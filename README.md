@@ -17,10 +17,11 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Microsoft Windows XP (original operating system)
-    - WinIsis (database original cataloger)
-	- VirtualBox (software to virtualize operating system inside other operating systems)
+    - Microsoft Windows XP (operating system)
+    - WinIsis (bibliographic database cataloger)
+	- VirtualBox (software to virtualize one operating system inside another operating systems)
 	- [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
+	- [Text Compare!](https://text-compare.com/) (online diff tool that allows you to easily make a text comparison and find the differences between two texts)
 	- [Docker](https://www.docker.com/): deploy apps inside virtual environments. A time-saver in the process of cut and paste in-from a myriad of applications between different operating systems.
 * Configuration
 	- _In process_
