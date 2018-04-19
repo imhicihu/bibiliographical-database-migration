@@ -30,6 +30,10 @@
 * Deployment instructions
 	- _In process_
 
+### Issues ###
+
+* Can be seen [here](https://bitbucket.org/imhicihu/bibliographical-database-migration/issues)
+
 ### Who do I talk to? ###
 
 * Repo owner or admin
