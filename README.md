@@ -34,6 +34,10 @@
 
 * Can be seen [here](https://bitbucket.org/imhicihu/bibliographical-database-migration/issues)
 
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/bibliographical-database-migration/commits/) section for the current status
+
 ### Who do I talk to? ###
 
 * Repo owner or admin
