@@ -1,3 +1,5 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 # Rationale #
 
 * This file describes the workflow of migration between some various exogenous databases that belongs to IMHICIHU. 
