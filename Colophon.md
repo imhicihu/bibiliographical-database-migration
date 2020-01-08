@@ -17,3 +17,5 @@
 	* [CloudyExcel](http://www.cloudyexcel.com/compare-excel/): merge, duplicate, validate records
 * Digital transfer
 	* [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+* Table converter
+    - [Table convert](https://tableconvert.com/): converter to a plethora of formats
