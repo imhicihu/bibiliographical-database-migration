@@ -26,6 +26,7 @@
 	- [Beautiful Soap](https://www.crummy.com/software/BeautifulSoup/#Download): unencoding of unicode text to UTF-8 format specification. A kind of swiss-army knife of encoding-unencoding text files. 
 	- [Text Compare!](https://text-compare.com/) (online diff tool that allows you to easily make a text comparison and find the differences between two texts)
 	- [Docker](https://www.docker.com/): deploy apps inside virtual environments. A time-saver in the process of cut and paste in-from a myriad of applications between different operating systems.
+	![graphics.jpg](https://bitbucket.org/repo/AjyxMg/images/3615852828-soft.jpg)
 * Configuration
 	- _In process_
 * Dependencies
