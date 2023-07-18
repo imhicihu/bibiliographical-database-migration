@@ -5,8 +5,8 @@
 
 To fix                        | Fixed
 ------------------- | -------------
-              ´                 |             '
-              ´´               |             "
+  &#96;                |         '    
+  &#96; &#96;               |          \"
 vol.XXX                    | vol. XXX
 (space) **:** (space)     | (space)**:** (space)
 (space) **.;** (space)     | (space)**; ** (space)
